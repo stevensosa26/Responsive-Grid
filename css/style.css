@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+
+
+img{
+   width: 200px;
+   height: 150px;
+   
+
+}
+
+.col{
+    margin: 10px;
+}
+
+p{
+    text-align: center;
+    font-family: Roboto;
+    display: flex;
+    padding: 20px;
+    font-size: 25px;
+    
+}
+
+#col1{
+    padding-top: 30px;
+}
+
+#col2{
+    padding-top: 100px;
+}
+
+#col3{
+    padding-top: 100px;
+}
